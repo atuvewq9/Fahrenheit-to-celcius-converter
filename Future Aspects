@@ -1,0 +1,12 @@
+Some features that can be added in future versions:
+
+-  Add Celsius to Fahrenheit conversion option
+-  Add temperature conversion between multiple units (Celsius, Fahrenheit, Kelvin)
+-  Improve UI design with custom themes and animations
+-  Add dark mode support
+-  Add temperature history tracking
+-  Display temperature trends using graphs
+-  Add voice-based temperature input
+-  Make the application responsive for different screen sizes
+-  Save previous conversions for future reference
+-  Create a web version using Flask or Streamlit
